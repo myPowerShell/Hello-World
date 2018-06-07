@@ -1,8 +1,8 @@
 # Hello-World
 my 1st Repo
 
-#Git Quick Reference
-https://git-scm.com/docs
+#Git Quick Reference <br />
+https://git-scm.com/docs <br />
 
 
 
