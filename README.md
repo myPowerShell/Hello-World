@@ -27,3 +27,8 @@ git remote set-url origin git@github.com:myPowerShell/Hello-World.git <br />
 git pull origin master  --allow-unrelated-histories <br />
 git add . -A <br />
 
+OpenSSH:
+https://www.youtube.com/watch?v=Wx7WPDnwcDg
+
+
+
