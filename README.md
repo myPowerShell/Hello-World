@@ -1,5 +1,5 @@
 # Hello-World
-my 1st Repo
+Test Repo
 
 #Git Quick Reference <br />
 https://git-scm.com/docs <br />
@@ -22,8 +22,10 @@ git config --global user.name "Firstname Lastname" <br />
 git config --global user.email "your_email@youremail.com" <br />
 git commit --amend --reset-author <br />
 git init # to initialize local project folder <br />
+
 git remote add origin https://github.com/myPowerShell/Hello-World.git <br />
 git remote set-url origin git@github.com:myPowerShell/Hello-World.git <br />
+
 git pull origin master  --allow-unrelated-histories <br />
 git add . -A <br />
 
